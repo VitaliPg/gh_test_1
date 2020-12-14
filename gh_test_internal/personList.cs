@@ -17,6 +17,7 @@ namespace gh_test_internal
             {
                 person p1 = new person(i, ls[i]);
                 Plist.Add(p1);
+                
             }
             Lp = Plist;
         }
