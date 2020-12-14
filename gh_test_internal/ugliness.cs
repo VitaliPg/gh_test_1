@@ -12,11 +12,8 @@ namespace gh_test_internal
         public int zits;
         public bool uglyteeth;
         public double weight;
-        public double uglyfactor;=======
-        int zits;
-        bool uglyteeth;
-        double weight;
-        double uglyfactor;
+        public double uglyfactor;
+        
 
 
         public ugliness(person p)
